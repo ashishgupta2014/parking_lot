@@ -132,7 +132,7 @@ Print output based on the specific commands as mentioned below.
     exit
 `
 ## Expected Output
-# Created parking lot with 2 floors and 6 slots per floor
+    Created parking lot with 2 floors and 6 slots per floor
     No. of free slots for CAR on Floor 1: 3
     No. of free slots for CAR on Floor 2: 3
     No. of free slots for BIKE on Floor 1: 2
